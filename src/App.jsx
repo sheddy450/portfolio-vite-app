@@ -173,6 +173,8 @@ function App() {
       <section id="about" className="section about-section">
         <div className="container">
           <h2>About Me</h2>
+
+          <img src="/image.jpg" alt="Musa Shedrach" className="about-image" />
           <div className="about-content">
             <p>
               I'm a passionate full-stack developer with expertise in building

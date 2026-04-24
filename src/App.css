@@ -160,6 +160,13 @@ body {
   text-align: center;
   color: #555;
 }
+.about-image {
+  display: block;
+  margin: 2rem auto;
+  max-width: 200px;
+  border-radius: 50%;
+  box-shadow: 0 5px 15px rgba(102, 126, 234, 0.2);
+}
 
 /* Projects Section */
 .projects-grid {
